@@ -1,12 +1,8 @@
-# Transport Billing and Tracking System
-Welcome to the Transport Billing and Tracking System repository! This system is designed to streamline and enhance the process of billing and tracking for transportation services. Whether you're managing a fleet of vehicles, coordinating shipments, or providing transportation solutions, this system will help you efficiently manage and monitor your operations.
-
+Transport Billing and Tracking System
 Features
-Billing Management: Generate accurate bills and invoices for transportation services based on distance, weight, or other customizable parameters.
+Billing Management: Generate accurate bills and invoices for transportation services based on distance, time and speed.
 
-Real-time Tracking: Monitor the real-time location and status of vehicles or shipments using integrated tracking technologies.
-
-Efficient Reporting: Generate comprehensive reports on billing, operations, and performance metrics to gain insights into your transportation business.
+Real-Time Tracking: This system provides users with the optimal real time GPS tracking and prediction of the time of arrival based on speed in km/h. 
 
 User-Friendly Interface: Intuitive and user-friendly interface to facilitate easy navigation and use by both administrators and end-users.
 
